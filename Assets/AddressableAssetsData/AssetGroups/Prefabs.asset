@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Prefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: Prefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: abc754e40aa15e24d981cd3abb8a268b
+  m_SerializeEntries:
+  - m_GUID: 35afe9d15b4549c4d94fa5b181a3d47d
+    m_Address: Assets/Prefabs/Spawn Image.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level 1
+  - m_GUID: 32fb7e0aee1614fe8ac38467a139e9a6
+    m_Address: Assets/UI/Resource Vector Graphics/UI_Graphic_Resource_Tools.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e0eac6b76fdd842e88a7f8c75ecffaf4
+    m_Address: UI_Graphic_Resource_Wood
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 81dec96d6f3e2f340a74782e0db09b84
+    m_Address: Assets/Load Assets Window.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3979e73f3b8552b4c955d79582c90d79, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b37eee6b2be8c6241a1074cacd8a23ad, type: 2}
+    - {fileID: 11400000, guid: 361d7cdcda3cef74094349442435ca1d, type: 2}

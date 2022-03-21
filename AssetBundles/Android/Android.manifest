@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3578309307
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: sound_bundle
+      Dependencies: {}
+    Info_1:
+      Name: sprites_bundle
+      Dependencies: {}
+    Info_2:
+      Name: other_sprites.hd
+      Dependencies: {}
+    Info_3:
+      Name: other_sprites.sd
+      Dependencies: {}
