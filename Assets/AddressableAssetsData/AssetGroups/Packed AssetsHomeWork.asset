@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Packed AssetsHomeWork
+  m_EditorClassIdentifier: 
+  m_GroupName: Packed AssetsHomeWork
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b4447cf0d82a9064a86141b9881cce38
+  m_SerializeEntries:
+  - m_GUID: e66d33e5b2507fd4294109ef6fdfdde8
+    m_Address: Assets/Prefabs/SamplePrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HomeWorkLabel
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3979e73f3b8552b4c955d79582c90d79, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d7fb176ded870784e8f00163a7778e8f, type: 2}
+    - {fileID: 11400000, guid: 4e1ca36e7e325ac4ebdf7245de2c85bf, type: 2}

@@ -23,6 +23,8 @@ MonoBehaviour:
   m_NonRecursiveBuilding: 0
   m_maxConcurrentWebRequests: 500
   m_ContiguousBundles: 0
+  m_StripUnityVersionFromBundleBuild: 0
+  m_DisableVisibleSubAssetRepresentations: 0
   m_ShaderBundleNaming: 0
   m_ShaderBundleCustomNaming: 
   m_MonoScriptBundleNaming: 0
@@ -37,6 +39,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 2e221c0d77b0a7b4fbf9266c87c4fc7e, type: 2}
   - {fileID: 11400000, guid: 728a4d6c906e9364085d15322b25efc2, type: 2}
   - {fileID: 11400000, guid: 4e2da7ab34091aa44a340d69014d3c9e, type: 2}
+  - {fileID: 11400000, guid: 120c21837b82c8741a80214b31348298, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -94,6 +97,7 @@ MonoBehaviour:
     - default
     - Level 1
     - Level 2
+    - HomeWorkLabel
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: 740184aa56f4c5d428e19ea92f8bd012, type: 2}
